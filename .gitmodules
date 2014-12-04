@@ -1,0 +1,6 @@
+[submodule "script.plexbmc.helper"]
+	path = script.plexbmc.helper
+	url = https://github.com/hippojay/script.plexbmc.helper.git
+[submodule "pywakeonlan"]
+	path = pywakeonlan
+	url = https://github.com/remcohaszing/pywakeonlan.git
