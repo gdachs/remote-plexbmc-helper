@@ -11,5 +11,5 @@ class __window__():
     def setProperty(self, key, value):
         self.__properties__[key] = value
 
-def Window(id):
+def Window(windowId):
     return __window__()
