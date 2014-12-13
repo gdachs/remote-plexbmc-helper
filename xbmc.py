@@ -30,7 +30,7 @@ def executeJSONRPC(request):
     return response.read()
 
 def sleep(milliseconds):
-    time.sleep (milliseconds / 1000.0);
+    time.sleep(milliseconds / 1000.0);
 
 class Player:
 
